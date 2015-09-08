@@ -2,8 +2,8 @@
 	"name": "s9e-mediaembed",
 	"title": "s9e/mediaembed",
 	"description": "Embed third-party content in your Flarum.",
-	"keywords": ["facebook","embed","media","twitter","youtube"],
-	"version": "0.1.0",
+	"keywords": ["embed","facebook","media","twitter","youtube"],
+	"version": "0.2.0",
 	"author": {
 		"name": "JoshyPHP"
 	},
@@ -17,8 +17,8 @@
 		"issues": "https://github.com/s9e/flarum-ext-mediaembed/issues"
 	},
 	"icon": {
-	  "name": "youtube-play",
-	  "backgroundColor": "#cc181e",
-	  "color": "#fff"
+		"name": "youtube-play",
+		"backgroundColor": "#cc181e",
+		"color": "#fff"
 	}
 }
