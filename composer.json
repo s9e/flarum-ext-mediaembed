@@ -3,7 +3,7 @@
 	"description": "Embed third-party content in your Flarum.",
     "type": "flarum-extension",
 	"keywords": ["flarum","embed","facebook","media","twitter","youtube"],
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"author": {
 		"name": "JoshyPHP"
 	},
