@@ -2,7 +2,11 @@ s9e\mediaembed is a Flarum extension that automatically embeds third-party media
 
 ### How to install
 
-[Download the latest release](https://github.com/s9e/flarum-ext-mediaembed/releases/latest). Unzip the archive into the `extensions` directory of your Flarum installation. Then go to the admin panel and enable the extension.
+Install via Composer by running this command in your Flarum directory:
+
+```sh
+composer require s9e/flarum-ext-mediaembed
+```
 
 ### Like this extension?
 
