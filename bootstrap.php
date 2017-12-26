@@ -7,15 +7,15 @@
 */
 namespace s9e\Flarum\MediaEmbed;
 
-use Flarum\Event\ConfigureFormatter;
+use Flarum\Formatter\Event\Configuring;
 use Illuminate\Events\Dispatcher;
 use s9e\TextFormatter\Configurator\Bundles\MediaPack;
 
 function subscribe(Dispatcher $events)
 {
 	$events->listen(
-		ConfigureFormatter::class,
-		function (ConfigureFormatter $event)
+		Configuring::class,
+		function (Configuring $event)
 		{
 			(new MediaPack)->configure($event->configurator);
 		}
