@@ -1,4 +1,6 @@
-s9e\mediaembed is a Flarum extension that automatically embeds third-party media in messages.
+s9e\mediaembed is a Flarum extension that automatically embeds third-party content in messages.
+
+The most up-to-date list of supported sites is available [in docs](https://s9etextformatter.readthedocs.io/Plugins/MediaEmbed/Sites/). The actual list of supported URLs depends on Flarum's Composer dependencies.
 
 ### How to install
 
