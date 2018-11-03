@@ -5,5 +5,5 @@ s9e\mediaembed is a Flarum extension that automatically embeds third-party media
 Install via Composer by running this command in your Flarum directory:
 
 ```sh
-composer require s9e/flarum-ext-mediaembed
+composer require s9e/flarum-ext-mediaembed:*
 ```
