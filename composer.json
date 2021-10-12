@@ -10,7 +10,7 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=7.0.0",
-		"flarum/core": ">=0.1.0-beta.8"
+		"flarum/core": "^1.0"
 	},
 	"support": {
 		"source": "https://github.com/s9e/flarum-ext-mediaembed",
